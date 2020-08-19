@@ -1,1 +1,2 @@
-# sugoi
+# yourkotaichi
+練習がてら
